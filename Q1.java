@@ -1,4 +1,4 @@
-// WAP to find out square root of a number without using library function.
+
 
 import java.util.Scanner;
 
