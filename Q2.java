@@ -1,4 +1,4 @@
-//WAP to find the perimeter and area of a circle given a value of radius.
+
 public class Q2 {
     public static void main(String[] args) {
         int radius = 25;
